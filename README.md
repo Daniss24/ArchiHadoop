@@ -7,9 +7,9 @@ Analyse des données de points de recharge pour vehicules electriques disponibil
 ![Apperçu](img/image.png)
 
 
-Ce projet permettra de maîtriser un pipeline ETL/ELT moderne avec des technologies Big Data (NoSQL, Hadoop) et une visualisation interactive.
+Ce projet permet de maîtriser un pipeline ETL/ELT moderne avec des technologies Big Data (NoSQL, Hadoop) et une visualisation interactive.
 
-Belib sont des données géolocalisées de disponibilité en temps réel des Points de recharge de voiture électrique.
+Belib, ce sont des données géolocalisées de disponibilité en temps réel des points de recharge de voiture électrique.
 
 ## 1. Liste de pièces-jointes
 - répertoire `etl`
@@ -19,10 +19,9 @@ Belib sont des données géolocalisées de disponibilité en temps réel des Poi
     - `load.py`
 - `api.py`
 - `leaflet.py`
-- répertoire `data`
-- ce fichier `Readme.md`
-- Le fichier `image.png`
-- Le fichier `belib_log.png` (image du popup des marqueurs de la carte)
+- répertoire `img` (images utilisés)
+- fichier `Readme.md`
+- fichier `bornes_belib_proximite.html` (carte interactive avec marqueur filtré)
 
 ## 2. Application/outil utilisés
 
@@ -38,11 +37,9 @@ Navigateur Web ----> Pour tester l'affichage Leaflet et l'API si exposée.
 
 ## 4. Objectif
 
-• 	Pipeline ETL: Récupérer les données via une API Open Data,  
-                  Nettoyer les données  
+• 	Pipeline ETL: Récupérer les données via une API Open Data, nettoyer les données  
 •	MongoDB :     Stocker les données dans MongoDB,  
-•	MapReduce :   Calculer le nombre de bornes disponibles par arrondissement  
-        	      Trouver la moyenne des bornes disponibles par heure.  
+•	MapReduce :   Calculer le nombre de bornes disponibles par arrondissement, trouver la moyenne des bornes disponibles par heure.  
 •	Leaflet :     Afficher la carte interactive avec un marqueur coloré (vert/rouge) selon disponibilité à 500m à proximité de l’adresse saisie.  
 
 ## 5. Architecture (cf. image.png)

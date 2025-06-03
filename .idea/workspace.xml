@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c418ebf0-bdff-45f4-ab2d-cd0fedbeb2f1" name="Changes" comment="Firstcommit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projethadoop1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projethadoop2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projethadoop3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjethadoopCarte.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ProjethadoopCarte.png" afterDir="false" />
+    <list default="true" id="c418ebf0-bdff-45f4-ab2d-cd0fedbeb2f1" name="Changes" comment="Secondcommit">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/belib_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/belib_logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bornes_belib_proximite.html" beforeDir="false" afterPath="$PROJECT_DIR$/bornes_belib_proximite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +192,7 @@
       <updated>1748876669469</updated>
       <workItem from="1748876670539" duration="38372000" />
       <workItem from="1748956079799" duration="620000" />
-      <workItem from="1748957286632" duration="7198000" />
+      <workItem from="1748957286632" duration="7640000" />
     </task>
     <task id="LOCAL-00001" summary="Firstcommit">
       <option name="closed" value="true" />
@@ -275,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748964225700</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Secondcommit">
+      <option name="closed" value="true" />
+      <created>1748964744146</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748964744146</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,12 +318,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Firstcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Firstcommit" />
+    <MESSAGE value="Secondcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secondcommit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ProjectBelib$Doctests_in_folium.coverage" NAME="Doctests in folium Coverage Results" MODIFIED="1748907617345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProjectBelib$api.coverage" NAME="api Coverage Results" MODIFIED="1748946283521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProjectBelib$run.coverage" NAME="run Coverage Results" MODIFIED="1748946954189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/etl" />
+    <SUITE FILE_PATH="coverage/ProjectBelib$api.coverage" NAME="api Coverage Results" MODIFIED="1748964666926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectBelib$run.coverage" NAME="run Coverage Results" MODIFIED="1748964644792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/etl" />
     <SUITE FILE_PATH="coverage/ProjectBelib$config.coverage" NAME="config Coverage Results" MODIFIED="1748946947394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/etl" />
   </component>
 </project>

@@ -84,7 +84,7 @@ for borne in collection.find():
         msg_html = f"""
                     <div style="font-family: Arial, sans-serif; width: 250px;">
                       <h3 style="color: #4a4a4a; margin-bottom: 10px;">{nom}</h3>
-                      <img src="belib_logo.png" style="width: 50%; margin-bottom: 10px;">
+                      <img src="img/belib_logo.png" style="width: 50%; margin-bottom: 10px;">
                       <p style="color: #666; margin: 5px 0;">{msg1}</p>
                       <p style="color: #666; margin: 5px 0;">{msg2}</p>
                       <p style="color: #666; margin: 5px 0;">{msg3}</p>

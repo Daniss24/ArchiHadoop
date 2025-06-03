@@ -4,7 +4,7 @@ Analyse des données de points de recharge pour vehicules electriques disponibil
 
 # BELIB : DEVELOPPEMENT D'UN PIPELINE DATA AVEC PYTHON+MONGODB+LEAFLET+MAPREDUCE 
 
-![Apperçu](image.png)
+![Apperçu](img/image.png)
 
 
 Ce projet permettra de maîtriser un pipeline ETL/ELT moderne avec des technologies Big Data (NoSQL, Hadoop) et une visualisation interactive.
@@ -39,7 +39,7 @@ Navigateur Web ----> Pour tester l'affichage Leaflet et l'API si exposée.
 ## 4. Objectif
 
 • 	Pipeline ETL: Récupérer les données via une API Open Data,  
-		          Nettoyer les données  
+                  Nettoyer les données  
 •	MongoDB :     Stocker les données dans MongoDB,  
 •	MapReduce :   Calculer le nombre de bornes disponibles par arrondissement  
         	      Trouver la moyenne des bornes disponibles par heure.  
@@ -54,7 +54,7 @@ Navigateur Web ----> Pour tester l'affichage Leaflet et l'API si exposée.
 Lancement du pipeline : python run_etl.py  
 Lancement de l'API : python api.py  
 Ouverture leaflet_map/index.html dans le navigateur  
-![Apperçu](Projethadoop1.png)
-![Apperçu](Projethadoop2.png)
-![Apperçu](Projethadoop3.png)
-![Apperçu](ProjethadoopCarte.png)
+![Apperçu](img/Projethadoop1.png)
+![Apperçu](img/Projethadoop2.png)
+![Apperçu](img/Projethadoop3.png)
+![Apperçu](img/ProjethadoopCarte.png)

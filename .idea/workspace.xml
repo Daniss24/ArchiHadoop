@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c418ebf0-bdff-45f4-ab2d-cd0fedbeb2f1" name="Changes" comment="Firstcommit">
-      <change afterPath="$PROJECT_DIR$/Projethadoop1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projethadoop2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projethadoop3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjethadoopCarte.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projethadoop1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projethadoop2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projethadoop3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Projethadoop3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjethadoopCarte.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ProjethadoopCarte.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/belib_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/belib_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bornes_belib_proximite.html" beforeDir="false" afterPath="$PROJECT_DIR$/bornes_belib_proximite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/image.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +81,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akuelou\PycharmProjects\ProjectBelib\img" />
       <recent name="C:\Users\Akuelou\PycharmProjects\ProjectBelib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run">
+  <component name="RunManager" selected="Python.api">
     <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectBelib" />
       <option name="ENV_FILES" value="" />
@@ -172,9 +177,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.api" />
         <item itemvalue="Python.run" />
         <item itemvalue="Python.config" />
-        <item itemvalue="Python.api" />
         <item itemvalue="Python tests.Doctests in leaflet_map" />
       </list>
     </recent_temporary>
@@ -196,7 +201,7 @@
       <updated>1748876669469</updated>
       <workItem from="1748876670539" duration="38372000" />
       <workItem from="1748956079799" duration="620000" />
-      <workItem from="1748957286632" duration="6559000" />
+      <workItem from="1748957286632" duration="7198000" />
     </task>
     <task id="LOCAL-00001" summary="Firstcommit">
       <option name="closed" value="true" />
@@ -254,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748963308924</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Firstcommit">
+      <option name="closed" value="true" />
+      <created>1748963973557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748963973557</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Firstcommit">
+      <option name="closed" value="true" />
+      <created>1748964225700</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748964225700</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
